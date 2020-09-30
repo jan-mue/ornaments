@@ -1,6 +1,6 @@
 # Symmetry Recognition in Wallpaper Patterns Using Deep Learning
 
-This repository contains the code written for my master thesis "Symmetry Recognition in Wallpaper Patterns Using Deep Learning"
+This repository contains the code written for my master's thesis "Symmetry Recognition in Wallpaper Patterns Using Deep Learning"
 at the Technical University of Munich.
 The two main models for the classification of wallpaper patterns by lattice type and by wallpaper group are defined in
 the modules `ornaments.modeling.models` and `main.py`. The latter is trained on artificial patterns generated with
