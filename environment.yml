@@ -1,0 +1,14 @@
+name: ornaments
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - pandas
+  - scikit-image
+  - pip:
+    - geometer
+    - matplotlib
+    - requests
+    - tensorflow==2.3
